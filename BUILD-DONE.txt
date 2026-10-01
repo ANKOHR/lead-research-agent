@@ -1,0 +1,6 @@
+Lead Research Agent build complete
+Test count: 46 passed (python -m pytest -q)
+Local implementation commit: 918ccb0066056815b50c188202920d1f99d32cc0
+Measured full installed CLI demo: 0.735710 seconds on 2026-10-01.
+
+Built a CPU-only, offline Python CLI with fixtures, run, report, qualify and dossier commands, a pure validated qualification engine, deterministic JSON and Markdown reports with explicit provenance, 200 labelled synthetic prospects with independent hand-computed expectations, and a hand-written five-record example. Tests verify exact totals, zero planted false positives, adversarial rejection, empty/malformed input, Unicode, deterministic output, recomputation and atomic writes. README, LESSONS.md, EVIDENCE.md and VERDICT.md document the rules, honesty boundary, validation and two-week improvement hook. Real-use verdict is pending evidence. No publication was performed. This file references the implementation commit; a following documentation commit records this completion report.
