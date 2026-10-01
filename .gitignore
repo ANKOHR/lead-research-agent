@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.lra/
+demo/
+lead-research-agent-codex.log
+lead-research-agent-launch.py
+lead-research-agent-prompt.txt
+
+demo-report.md

@@ -1,0 +1,13 @@
+{
+  "_comment": "SYNTHETIC hand-written five-record example",
+  "synthetic": true,
+  "label": "SYNTHETIC illustrative prospects",
+  "as_of": "2026-09-30",
+  "records": [
+    {"id":"one","name":"Synthetic Ada","company":"Synthetic Alpha","source":"synthetic://one","synthetic":true,"entered_by":"fixture author","observed_on":"2026-09-30","need":"Technical support requested","contact":"ada@example.invalid","consent":true,"budget_pence":10000},
+    {"id":"two","name":"Synthetic Ben","company":"Synthetic Beta","source":"synthetic://two","synthetic":true,"entered_by":"fixture author","observed_on":"2026-09-30","need":"","contact":"ben@example.invalid","consent":true,"budget_pence":10000},
+    {"id":"three","name":"Synthetic Chen","company":"Synthetic Gamma","source":"synthetic://three","synthetic":true,"entered_by":"fixture author","observed_on":"2026-09-30","need":"Technical support requested","contact":"","consent":true,"budget_pence":10000},
+    {"id":"four","name":"Synthetic Devi","company":"Synthetic Delta","source":"synthetic://four","synthetic":true,"entered_by":"fixture author","observed_on":"2026-09-30","need":"Technical support requested","contact":"devi@example.invalid","consent":false,"budget_pence":10000},
+    {"id":"five","name":"Synthetic Eli","company":"Synthetic Epsilon","source":"synthetic://five","synthetic":true,"entered_by":"fixture author","observed_on":"2026-09-30","need":"Technical support requested","contact":"eli@example.invalid","consent":true,"budget_pence":0}
+  ]
+}
